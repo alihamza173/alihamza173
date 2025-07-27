@@ -1,49 +1,59 @@
 <h1 align="center">Hi 👋, I’m Ali Hamza</h1>
-<h3 align="center">Frontend Developer from Faisalabad, Pakistan</h3>
+<h3 align="center">AI & Automation Specialist from Faisalabad, Pakistan</h3>
 
 ---
 
-### 🔭 I’m currently working on
-- **FYP Management System** (Web, Mobile & Backend)
+### 🔧 I specialize in:
+Identifying opportunities to automate workflows and building AI-powered systems to drive efficiency and innovation. :contentReference[oaicite:1]{index=1}
 
-### 🌱 I’m learning
-- **FastAPI** for backend development and modern API design
+---
 
-### 👯 I’m collaborating on
-- **FYP project**: building full-stack app (frontend, backend, and mobile)
+### 🚀 Completed Automation Projects
 
-### 🤝 I’m looking for help with
-- **FastAPI**, Python integration, and backend architecture
+| Project | Description | Tools / Stack |
+|--------|-------------|---------------|
+| **Lead Generation Workflow Automation** | Built a Zapier‑based pipeline: captured leads from web forms → enriched data → automated email outreach. Resulted in 40% more conversions. :contentReference[oaicite:2]{index=2} | Zapier, Airtable, Gmail API |
+| **Chatbot Support Agent** | Deployed a conversational AI chatbot prototype using custom GPT integration. Automated customer queries across support channels. :contentReference[oaicite:3]{index=3} | OpenAI GPT, Voiceflow, Node.js |
+| **FYP Management System** | Developed full-stack system (backend + frontend) to automate FYP assignments, notifications, project tracking, and submissions. | FastAPI, Vue 3, PostgreSQL |
+| **AI‑Engineering Case Steward** | Implemented autonomous task agent for repetitive workflows, documented challenges and improvements following AI-engineering practices. :contentReference[oaicite:4]{index=4} | Python, AI Agents, Logging & Monitoring |
 
-### 💬 Ask me about
-- **React Native, Next.js, Vue.js, Express**, or any frontend/mobile framework
+---
+
+### 🌱 Currently Learning
+- **FastAPI** for efficient backend APIs  
+- Modern agent-based automation frameworks
+
+---
+
+### 💬 Ask Me About
+- Process automation, Webhooks, Workflow orchestration  
+- Chatbots, AI agents, Zapier integrations & webhook design
+
+---
 
 ### 📫 How to reach me
-- **alihamza173oo3@gmail.com**
-
-### ⚡ Fun fact
-- I think I’m not funny — but I love coding with a sense of humor 😄
+**alihamza173oo3@gmail.com**
 
 ---
 
 ### 🧰 Languages & Tools
 
 <p align="left">
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="35"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="35"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="35"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="35"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="35"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="35"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="35"/></a>
+  <a href="https://zapier.com"><img src="https://cdn.worldvectorlogo.com/logos/zapier-icon.svg" alt="Zapier" width="35"/></a>
+  <a href="https://openai.com"><img src="https://cdn.worldvectorlogo.com/logos/openai.svg" alt="OpenAI" width="35"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="35"/></a>
+  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="35"/></a>
+  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="35"/></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35"/></a>
+  <a href="https://www.postman.com/"><img src="https://cdn.worldvectorlogo.com/logos/getpostman-icon.svg" alt="Postman" width="35"/></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.worldvectorlogo.com/logos/git-scm.svg" alt="Git" width="35"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity  
+### 📊 GitHub Stats & Activity
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alihamza173&show_icons=true&locale=en" alt="GitHub stats">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alihamza173&" alt="GitHub streak">
@@ -52,21 +62,9 @@
 
 ---
 
-### 🏆 Featured Projects  
-| Project | Description | Tech |
-|--------|-------------|------|
-| FYP Management System | Full-stack system for managing FYP workflows | Vue.js, FastAPI, PostgreSQL |
-| Mobile App (FYP) | React Native app connected to backend | React Native, FastAPI, Firebase |
-| Portfolio Website | My personal portfolio and blog | Next.js, Tailwind CSS |
+### 🏁 Let’s Collaborate
+If you're building automation workflows, AI agents, or backend integrations—feel free to reach out! I'm always up to exchange ideas or help with architecture and implementation.
 
 ---
 
-### 💬 Want to collaborate?  
-Feel free to open an 📫 issue or contact me for:
-- Backend advice (FastAPI, database modeling)
-- Mobile integration or React Native debugging
-- Frontend architecture (Next.js, Vue.js, Redux)
-
----
-
-Thank you for stopping by ❤️ I’m always open to learning, building, and connecting!  
+Thank you for visiting ❤️ I’m passionate about automating systems that make life smarter and simpler.
