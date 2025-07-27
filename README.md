@@ -4,7 +4,7 @@
 ---
 
 ### 🔧 I specialize in:
-Identifying opportunities to automate workflows and building AI-powered systems to drive efficiency and innovation. :contentReference[oaicite:1]{index=1}
+Identifying opportunities to automate workflows and building AI-powered systems to drive efficiency and innovation.
 
 ---
 
@@ -12,10 +12,10 @@ Identifying opportunities to automate workflows and building AI-powered systems 
 
 | Project | Description | Tools / Stack |
 |--------|-------------|---------------|
-| **Lead Generation Workflow Automation** | Built a Zapier‑based pipeline: captured leads from web forms → enriched data → automated email outreach. Resulted in 40% more conversions. :contentReference[oaicite:2]{index=2} | Zapier, Airtable, Gmail API |
-| **Chatbot Support Agent** | Deployed a conversational AI chatbot prototype using custom GPT integration. Automated customer queries across support channels. :contentReference[oaicite:3]{index=3} | OpenAI GPT, Voiceflow, Node.js |
-| **FYP Management System** | Developed full-stack system (backend + frontend) to automate FYP assignments, notifications, project tracking, and submissions. | FastAPI, Vue 3, PostgreSQL |
-| **AI‑Engineering Case Steward** | Implemented autonomous task agent for repetitive workflows, documented challenges and improvements following AI-engineering practices. :contentReference[oaicite:4]{index=4} | Python, AI Agents, Logging & Monitoring |
+| **Lead Generation Workflow Automation** | Built a N8n‑based pipeline: captured leads from web forms → enriched data → automated email outreach. Resulted in 40% more conversions. | N8n, Google Sheets, Gmail API |
+| **Chatbot Support Agent** | Deployed a conversational AI chatbot prototype using custom GPT integration, Ghl Crm & N8n. Automated customer queries across support channels. | OpenAI GPT, Voiceflow, Node.js |
+| **FYP Management System** | Developed full-stack system (backend + frontend) to automate FYP assignments, notifications, project tracking, and submissions. | FastAPI, Next Js, MongoDb |
+| **AI‑Engineering Case Steward** | Implemented autonomous task agent for repetitive workflows, documented challenges and improvements following AI-engineering practices. | Python, AI Agents, Logging & Monitoring |
 
 ---
 
